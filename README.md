@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, Python, and MS Power BI
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me at putridyah13@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm open to discussion further about Data or the project I worked on :) 
 
 <!---
 putrimd/putrimd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
