@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Putri!
 - 💞️ This is one of my previous project: monitoring petroleum production resource system dashboard.
 - Data source is strictly confidential, so I won't provide on this repository.
+- Ask me if you want to view the presentation file.
 - 📫 How to reach me at putridyah13@gmail.com
-- ⚡  I'm open to discussion further about Data or the project I worked on :) 
+- ⚡  I'm open to a discussion further about Data or the project I worked on :) 
