@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Putri!
+- 👋 Hi, I’m Putri! a Geophysicist and Data Analyst.
 - 💞️ This is one of my previous project: monitoring petroleum production resource system dashboard.
 - Data source is strictly confidential, so I won't provide on this repository.
 - Ask me if you want to view the presentation file.
